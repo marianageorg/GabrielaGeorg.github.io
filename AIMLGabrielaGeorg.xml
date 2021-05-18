@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+<category>
+      <pattern> Causas do branqueamento de corais </pattern>
+      <template> De acordo com Soares e Rabelo (2014) existe o agravamento do branqueamento dos corais devido ao aumento da temperatura nas águas do oceano, a pesca e a exploração marinha.  </template>
+</category>
+
+<category>
+      <pattern> Causas branqueamento corais </pattern>
+      <template> De acordo com Soares e Rabelo (2014) existe o agravamento do branqueamento dos corais devido ao aumento da temperatura nas águas do oceano, a pesca e a exploração marinha.  </template>
+</category>
+
+<category>
+      <pattern> Causas branqueamento coral </pattern>
+      <template> De acordo com Soares e Rabelo (2014) existe o agravamento do branqueamento dos corais devido ao aumento da temperatura nas águas do oceano, a pesca e a exploração marinha.  </template>
+</category>
+
+
+<category>
+      <pattern> Principais causas do branqueamento de corais </pattern>
+      <template> De acordo com Soares e Rabelo (2014) existe o agravamento do branqueamento dos corais devido ao aumento da temperatura nas águas do oceano, a pesca e a exploração marinha.  </template>
+</category>
+
+<category>
+      <pattern> Quais as principais causas do branqueamento de corais </pattern>
+      <template> De acordo com Soares e Rabelo (2014) existe o agravamento do branqueamento dos corais devido ao aumento da temperatura nas águas do oceano, a pesca e a exploração marinha.  </template>
+</category>
+
+<category>
+      <pattern> Quais são as causas do branqueamento de corais </pattern>
+      <template> De acordo com Soares e Rabelo (2014) existe o agravamento do branqueamento dos corais devido ao aumento da temperatura nas águas do oceano, a pesca e a exploração marinha.  </template>
+</category>
+
+<category>
+      <pattern> Quais são as causas do branqueamento de coral </pattern>
+      <template> De acordo com Soares e Rabelo (2014) existe o agravamento do branqueamento dos corais devido ao aumento da temperatura nas águas do oceano, a pesca e a exploração marinha.  </template>
+</category>
+
+
+<category>
+      <pattern> Corais </pattern>
+      <template> Corais são animais cnidários da classe Anthozoa, que segregam um exosqueleto calcário ou de matéria orgânica, ao contrário das anêmonas-do-mar, que pertencem à mesma classe. Os indivíduos adultos são pólipos individuais ou coloniais e encontram-se em todos os oceanos. <a href="https://pt.wikipedia.org/wiki/Coral" target="_blank">Coral - WIKIPÉDIA</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Coral </pattern>
+      <template> Corais são animais cnidários da classe Anthozoa, que segregam um exosqueleto calcário ou de matéria orgânica, ao contrário das anêmonas-do-mar, que pertencem à mesma classe. Os indivíduos adultos são pólipos individuais ou coloniais e encontram-se em todos os oceanos. <a href="https://pt.wikipedia.org/wiki/Coral" target="_blank">Coral - WIKIPÉDIA</a>
+       </template>
+</category>
+
+<category>
+      <pattern> O que são os corais </pattern>
+      <template> Corais são animais cnidários da classe Anthozoa, que segregam um exosqueleto calcário ou de matéria orgânica, ao contrário das anêmonas-do-mar, que pertencem à mesma classe. Os indivíduos adultos são pólipos individuais ou coloniais e encontram-se em todos os oceanos. <a href="https://pt.wikipedia.org/wiki/Coral" target="_blank">Coral - WIKIPÉDIA</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Quais as principais caracteristicas dos corais </pattern>
+      <template> O corpo do coral é chamado de pólipo. O pólipo é uma estrutura oca que adere a uma superfície. Os pólipos dos grandes corais podem crescer até cerca de 25 centímetros. Outros corais têm pólipos que não passam de 1 milímetro. Na parte de cima do pólipo existe uma boca circundada de tentáculos. Os tentáculos servem para levar pequenos animais marinhos até a boca do coral. Eles também têm ferrões que paralisam, ou congelam, as presas. Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://escola.britannica.com.br/artigo/coral/481053#:~:text=O%20corpo%20do%20coral%20%C3%A9%20chamado%20de%20p%C3%B3lipo.text=Os%20corais%20t%C3%AAm%20um%20esqueleto,col%C3%B4nia%20sobre%20os%20esqueletos%20deles.text=O%20corpo%20do%20coral%20%C3%A9%20chamado%20de%20p%C3%B3lipo.text=Os%20corais%20t%C3%AAm%20um%20esqueleto,col%C3%B4nia%20sobre%20os%20esqueletos%20deles." target="_blank">Características dos corais</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Caracteristicas corais </pattern>
+      <template> O corpo do coral é chamado de pólipo. O pólipo é uma estrutura oca que adere a uma superfície. Os pólipos dos grandes corais podem crescer até cerca de 25 centímetros. Outros corais têm pólipos que não passam de 1 milímetro. Na parte de cima do pólipo existe uma boca circundada de tentáculos. Os tentáculos servem para levar pequenos animais marinhos até a boca do coral. Eles também têm ferrões que paralisam, ou congelam, as presas. Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://escola.britannica.com.br/artigo/coral/481053#:~:text=O%20corpo%20do%20coral%20%C3%A9%20chamado%20de%20p%C3%B3lipo.text=Os%20corais%20t%C3%AAm%20um%20esqueleto,col%C3%B4nia%20sobre%20os%20esqueletos%20deles.text=O%20corpo%20do%20coral%20%C3%A9%20chamado%20de%20p%C3%B3lipo.text=Os%20corais%20t%C3%AAm%20um%20esqueleto,col%C3%B4nia%20sobre%20os%20esqueletos%20deles." target="_blank">Características dos corais</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Para que servem os corais </pattern>
+      <template> Os corais, distribuídos principalmente ao longo da faixa litorânea, compreendendo a zona costeira (camada de zona nerítica), possuem importante função ecológica, além da sua atividade filtradora, também servem de abrigo e alimento para diversos elementos da biota aquática, por exemplo, algumas espécies de crustáceos. Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://mundoeducacao.uol.com.br/biologia/corais.htm#:~:text=Os%20corais%2C%20distribu%C3%ADdos%20principalmente%20ao,exemplo%2C%20algumas%20esp%C3%A9cies%20de%20crust%C3%A1ceos%20(text=Os%20corais%2C%20distribu%C3%ADdos%20principalmente%20ao,exemplo%2C%20algumas%20esp%C3%A9cies%20de%20crust%C3%A1ceos%20(" target="_blank">Função dos corais</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Qual a função dos corais </pattern>
+      <template> Os corais, distribuídos principalmente ao longo da faixa litorânea, compreendendo a zona costeira (camada de zona nerítica), possuem importante função ecológica, além da sua atividade filtradora, também servem de abrigo e alimento para diversos elementos da biota aquática, por exemplo, algumas espécies de crustáceos. Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://mundoeducacao.uol.com.br/biologia/corais.htm#:~:text=Os%20corais%2C%20distribu%C3%ADdos%20principalmente%20ao,exemplo%2C%20algumas%20esp%C3%A9cies%20de%20crust%C3%A1ceos%20(text=Os%20corais%2C%20distribu%C3%ADdos%20principalmente%20ao,exemplo%2C%20algumas%20esp%C3%A9cies%20de%20crust%C3%A1ceos%20(" target="_blank">Função dos corais</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Função corais </pattern>
+      <template> Os corais, distribuídos principalmente ao longo da faixa litorânea, compreendendo a zona costeira (camada de zona nerítica), possuem importante função ecológica, além da sua atividade filtradora, também servem de abrigo e alimento para diversos elementos da biota aquática, por exemplo, algumas espécies de crustáceos. Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://mundoeducacao.uol.com.br/biologia/corais.htm#:~:text=Os%20corais%2C%20distribu%C3%ADdos%20principalmente%20ao,exemplo%2C%20algumas%20esp%C3%A9cies%20de%20crust%C3%A1ceos%20(text=Os%20corais%2C%20distribu%C3%ADdos%20principalmente%20ao,exemplo%2C%20algumas%20esp%C3%A9cies%20de%20crust%C3%A1ceos%20(" target="_blank">Função dos corais</a>
+       </template>
+</category>
+
+
+<category>
+      <pattern> Branqueamento de coral </pattern>
+      <template> O branqueamento do coral é uma síndrome que causa a descoloração dos corais e, em casos graves, podem levar a morte dos pólipos responsáveis pela construção dos recifes de coral, devido a problemas ambientais, como a mudança do clima. <br/> Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://www.biologianet.com/curiosidades-biologia/branqueamento-corais.htm" target="_blank">Coral - BIOLOGIANET</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Branqueamento coral </pattern>
+      <template> O branqueamento do coral é uma síndrome que causa a descoloração dos corais e, em casos graves, podem levar a morte dos pólipos responsáveis pela construção dos recifes de coral, devido a problemas ambientais, como a mudança do clima. <br/> Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://www.biologianet.com/curiosidades-biologia/branqueamento-corais.htm" target="_blank">Coral - BIOLOGIANET</a>
+       </template>
+</category>
+
+<category>
+      <pattern> Branqueamento corais </pattern>
+      <template> O branqueamento do coral é uma síndrome que causa a descoloração dos corais e, em casos graves, podem levar a morte dos pólipos responsáveis pela construção dos recifes de coral, devido a problemas ambientais, como a mudança do clima. <br/> Acesse para fonte e para descobrir mais sobre o conteúdo: <a href="https://www.biologianet.com/curiosidades-biologia/branqueamento-corais.htm" target="_blank">Coral - BIOLOGIANET</a>
+       </template>
+</category>
+
+
+<category>
+      <pattern> Consequência branqueamento do coral </pattern>
+      <template> <srai>Quais as consequências do branqueamento dos corais</srai>
+       </template>
+</category>
+
+<category>
+      <pattern> Consequência branqueamento coral </pattern>
+      <template> <srai>Quais as consequências do branqueamento dos corais</srai>
+       </template>
+</category>
+
+<category>
+      <pattern> Consequência branqueamento corais </pattern>
+      <template> <srai>Quais as consequências do branqueamento dos corais</srai>
+       </template>
+</category>
+
+<category>
+      <pattern> O que pode acontecer com o branqueamento dos corais </pattern>
+      <template> <srai>Quais as consequências do branqueamento dos corais</srai>
+       </template>
+</category>
+
+<category>
+      <pattern> o que pode acontecer com o branqueamento dos corais </pattern>
+      <template> <srai>Quais as consequências do branqueamento dos corais</srai>
+       </template>
+</category>
+
+<category>
+      <pattern> Consequências branqueamento dos corais </pattern>
+      <template> <srai>Quais as consequências do branqueamento dos corais</srai>
+       </template>
+</category>
+
+
+<category>
+      <pattern> Quais as consequências do branqueamento dos corais </pattern>
+      <template> O branqueamento dos corais tem como consequência mais grave a morte desses animais. Isso acontece porque, nesse fenômeno, as zooxantelas, algas que fornecem nutrientes para algumas espécies de corais, são destruídas ou têm seu pigmento retirado.  
+       </template>
+</category>
+
+
+
+</aiml>
